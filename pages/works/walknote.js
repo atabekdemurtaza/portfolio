@@ -17,7 +17,10 @@ const Work = () => (
       </Title>
       <P>
         Certainly, here's a brief job description in 50 words:**Mentor at Texnopos** 
-        As a Mentor at Texnopos, I teach Python Basic and Advanced courses. I've successfully guided over 200 students, many of whom have secured jobs. My passion for Python and mentorship helps individuals excel in programming and launch their tech careers.
+        As a Mentor at Texnopos, I teach Python Basic and Advanced courses. 
+        I've successfully guided over 200 students, many of whom have secured jobs. 
+        My passion for Python and mentorship helps individuals excel in programming and launch 
+        their tech careers.
       </P>
       <List ml={4} my={4}>
         <ListItem>
