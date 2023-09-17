@@ -16,9 +16,9 @@ const Work = () => (
         Mentor <Badge>2020-2022</Badge>
       </Title>
       <P>
-        Certainly, here's a brief job description in 50 words:**Mentor at Texnopos** 
+        Certainly, heres a brief job description in 50 words:**Mentor at Texnopos** 
         As a Mentor at Texnopos, I teach Python Basic and Advanced courses. 
-        I've successfully guided over 200 students, many of whom have secured jobs. 
+        Ive successfully guided over 200 students, many of whom have secured jobs. 
         My passion for Python and mentorship helps individuals excel in programming and launch 
         their tech careers.
       </P>
